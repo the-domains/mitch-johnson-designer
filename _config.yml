@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3817204
+color:
+  saturation: 0.7422152
+  brandStrength: 1
+  lightness: 0.2788091
+  brandColors:
+    - '#FFFFFF'
+    - '#9896A4'
+    - '#DD453C'
+    - '#FBE337'
+    - '#014C8D'
+  rhythmicContrast: 0.3485769
+layout_spectrum: 1
+name: Mitch Johnson — Designer
